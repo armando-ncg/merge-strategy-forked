@@ -1,0 +1,3 @@
+[submodule "merge-startegy"]
+	path = merge-startegy
+	url = https://github.com/armandoggweb/merge-startegy
